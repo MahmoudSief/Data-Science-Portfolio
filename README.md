@@ -1,31 +1,35 @@
-# Mahmoud Sief | Data Science Portfolio  
+# 🌟 Mahmoud Raslan | Data Science Portfolio  
 
-👋 Hi, I’m Mahmoud, an aspiring data scientist with a strong background in Aerospace and Mechanical Engineering.  
-I’m currently learning data analysis, machine learning, and AI, and I’m building this portfolio to share my projects.  
+👋 Hi there!  
+I’m an aspiring **Data Scientist** with a background in **Aerospace & Mechanical Engineering**.  
+I’m passionate about data analysis, machine learning, and AI — and I’m building this portfolio to showcase my journey.  
 
 ---
 
-## 🚀 Skills (In Progress)
-- Programming: Python, MATLAB
-- Data Analysis: Pandas, NumPy, SQL
-- Visualization: Matplotlib, Seaborn
-- Machine Learning: Scikit-learn (learning in progress)
-- Deep Learning: TensorFlow / PyTorch (upcoming)
+## 🚀 Skills (Work in Progress)
+- **Programming:** Python, MATLAB, SQL  
+- **Data Analysis:** Pandas, NumPy  
+- **Visualization:** Matplotlib, Seaborn  
+- **Machine Learning:** scikit-learn (learning in progress)  
+- **Deep Learning:** TensorFlow / PyTorch (upcoming)  
 
 ---
 
 ## 📂 Projects (Coming Soon)
-I’m currently preparing projects that will include:  
-- 📊 Data Cleaning & Visualization  
-- 🤖 Machine Learning Models  
-- 📝 NLP Projects  
-- 📈 Time Series Forecasting  
+I’ll be adding projects here as I go — stay tuned!  
 
-Stay tuned as I add more!
+- 📊 **Exploratory Data Analysis (EDA)**  
+- 🤖 **Machine Learning Models**  
+- 📝 **Natural Language Processing (NLP)**  
+- 📈 **Time Series Forecasting**  
 
 ---
 
 ## 📫 Contact Me
-- Email: mahmoudsief222@gmail.com  
-- LinkedIn: [LinkedIn link here]  
-- Kaggle: [Kaggle profile link here]  
+- 📧 Email: **mahmedsief222@gmail.com**  
+- 💼 LinkedIn: [Your LinkedIn link here]  
+- 📊 Kaggle: [Your Kaggle profile link here]  
+
+---
+
+🔗 **Live Portfolio Website**: [Your GitHub Pages Link will appear here after setup]  
