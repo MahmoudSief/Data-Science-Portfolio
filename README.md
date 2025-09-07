@@ -1,4 +1,4 @@
-# Mahmoud Raslan | Data Science Portfolio  
+# Mahmoud Sief | Data Science Portfolio  
 
 👋 Hi, I’m Mahmoud, an aspiring data scientist with a strong background in Aerospace and Mechanical Engineering.  
 I’m currently learning data analysis, machine learning, and AI, and I’m building this portfolio to share my projects.  
@@ -27,5 +27,5 @@ Stay tuned as I add more!
 
 ## 📫 Contact Me
 - Email: mahmoudsief222@gmail.com  
-- LinkedIn: [Your LinkedIn link here]  
-- Kaggle: [Your Kaggle profile link here]  
+- LinkedIn: [LinkedIn link here]  
+- Kaggle: [Kaggle profile link here]  
