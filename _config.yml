@@ -1,8 +1,8 @@
-# _config.yml
+# Basic site configuration
 title: "Mahmoud Sief | Data Science Portfolio"
 description: "Data Science projects, skills, and journey"
-theme: jekyll-theme-cayman       # recommended (clean & modern)
 url: "https://mahmoudsief.github.io"
-baseurl: "/Data-Science-Portfolio"  # <<--- IMPORTANT: set this to your repo name
-sass:
-  style: compressed
+baseurl: "/Data-Science-Portfolio"   # IMPORTANT: keep this value equal to your repo name
+markdown: kramdown
+permalink: /:path/
+# Keep this minimal — we use our own layout + CSS
