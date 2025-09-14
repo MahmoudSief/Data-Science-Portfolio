@@ -30,15 +30,8 @@ Welcome — here are my highlighted projects. Replace repo links with your real 
 
 <article class="project-card">
   <h3><a href="https://github.com/mahmoudsief/Time-Series-Forecasting" target="_blank" rel="noopener">Time Series Forecasting</a></h3>
-  <p>ARIMA, Prophet and RNN/sequence models for forecasting time series.</p>
+  <p>ARIMA, Prophet and RNN models for forecasting time series.</p>
   <p><strong>Tech:</strong> Python, Prophet, TensorFlow</p>
 </article>
 
 </div>
-
----
-
-**How to add more projects:**  
-1. Create a repo for the project (e.g. `EDA-Project`).  
-2. Add a short description and a README in the project repo.  
-3. Edit this `projects.md` and add a new card (copy an existing `<article>` block).
