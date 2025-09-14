@@ -1,8 +1,5 @@
-# Basic site configuration
 title: "Mahmoud Sief | Data Science Portfolio"
 description: "Data Science projects, skills, and journey"
 url: "https://mahmoudsief.github.io"
-baseurl: "/Data-Science-Portfolio"   # IMPORTANT: keep this value equal to your repo name
+baseurl: "/Data-Science-Portfolio"
 markdown: kramdown
-permalink: /:path/
-# Keep this minimal — we use our own layout + CSS
