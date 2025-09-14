@@ -4,3 +4,5 @@ description: "Data Science projects, skills, and journey"
 theme: jekyll-theme-cayman       # recommended (clean & modern)
 url: "https://mahmoudsief.github.io"
 baseurl: "/Data-Science-Portfolio"  # <<--- IMPORTANT: set this to your repo name
+sass:
+  style: compressed
