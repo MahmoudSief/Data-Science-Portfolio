@@ -4,18 +4,9 @@ title: "CV"
 permalink: /cv/
 ---
 
-# CV
+# Curriculum Vitae
 
-You can either paste a short CV summary here or link to a PDF.
+Here is my latest CV. You can view it online or download it:
 
-**Quick summary**
-- **Name:** Mahmoud Sief  
-- **Field:** Data Science / Aerospace / Research  
-- **Skills:** Python, MATLAB, Pandas, NumPy, Matplotlib, scikit-learn
-
-**Experience**
-- Research assistant and project work (details in the CV PDF)
-
-**Download full CV**
-- Add your CV file to the repo (e.g. `assets/files/CV.pdf`) and link it here:
-  - [Download CV (PDF)](/Data-Science-Portfolio/assets/files/CV.pdf)
+- [📄 View CV (PDF)](/Data-Science-Portfolio/assets/files/cv.pdf)
+- [⬇️ Download CV](/Data-Science-Portfolio/assets/files/cv.pdf){:target="_blank"}
