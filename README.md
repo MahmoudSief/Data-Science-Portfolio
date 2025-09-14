@@ -1,7 +1,7 @@
 # 🌟 Mahmoud Raslan | Data Science Portfolio  
 
 👋 Hi there!  
-I’m an aspiring **Data Scientist** with a background in **Aerospace & Mechanical Engineering**.  
+I’m an aspiring **Data Scientist** with a background in **Aerospace Engineering**.  
 I’m passionate about data analysis, machine learning, and AI — and I’m building this portfolio to showcase my journey.  
 
 ---
