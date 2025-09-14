@@ -4,7 +4,7 @@ title: "About"
 permalink: /about/
 ---
 
-# About Me
+# ℹ️ About Me
 
 Hello — I’m Mahmoud Sief. I studied Aerospace Engineering and I’m transitioning into Data Science.  
 I enjoy turning data into actionable insights, building models, and visualizing results.
@@ -14,6 +14,6 @@ I enjoy turning data into actionable insights, building models, and visualizing 
 ---
 
 ## Contact
-- Email: mahmedsief222@gmail.com
-- LinkedIn: [Add your LinkedIn link here]
-- Kaggle: [Add your Kaggle profile link here]
+- Email: mahmedsief222@gmail.com  
+- LinkedIn: [Your Profile]  
+- Kaggle: [Your Profile]
