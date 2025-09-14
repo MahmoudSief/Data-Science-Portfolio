@@ -8,5 +8,5 @@ permalink: /cv/
 
 Here is my latest CV. You can view it online or download it:
 
-- [📄 View CV (PDF)](/Data-Science-Portfolio/assets/files/cv.pdf)
-- [⬇️ Download CV](/Data-Science-Portfolio/assets/files/cv.pdf){:target="_blank"}
+- [📄 View CV (PDF)](/Data-Science-Portfolio/assets/files/Mahmoud_Mohamed_Sief_CV_MechanicalEngineer.pdf)
+- [⬇️ Download CV](/Data-Science-Portfolio/assets/files/Mahmoud_Mohamed_Sief_CV_MechanicalEngineer.pdf){:target="_blank"}
