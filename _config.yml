@@ -3,3 +3,6 @@ description: "Data Science projects, skills, and journey"
 url: "https://mahmoudsief.github.io"
 baseurl: "/Data-Science-Portfolio"
 markdown: kramdown
+
+include:
+  - _pages
